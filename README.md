@@ -25,3 +25,6 @@ host 192.168.0.10 : 특정 IP
 
 *libpcap/WinPcap 설치 필요
 *pip install scapy pandas matplotlib
+
+[실행 화면]
+https://velog.io/@wonnn/%ED%8C%A8%ED%82%B7-%EC%BA%A1%EC%B2%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EA%B0%9C%EB%B0%9C
